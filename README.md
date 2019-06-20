@@ -1,4 +1,7 @@
 
+
+<img src="https://github.com/hanqiulun/AwsomeJava/blob/master/statics/java.png" width="50%">
+
 # AwsomeJava
 
 1. 语法
