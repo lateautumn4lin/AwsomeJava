@@ -7,6 +7,8 @@
 1. 语法
 
     1.1 推荐书籍：《Java 核心技术 卷I&&II》
+    
+    ![Java 核心技术 卷I 示例](https://github.com/hanqiulun/AwsomeJava/blob/master/statics/Screenshot%20from%202019-06-20%2010-57-03.png)
 
 2. 依赖管理
     
