@@ -2,7 +2,7 @@
 
 <img src="https://github.com/hanqiulun/AwsomeJava/blob/master/statics/java.png" width="50%">
 
-# AwsomeJava
+## AwsomeJava - 致力于做最好的其他语言转型*Java*的引导教程
 
 1. 语法
 
